@@ -10,3 +10,5 @@
 # ... even if they are in subdirectories
 
 !*/
+
+!/image
